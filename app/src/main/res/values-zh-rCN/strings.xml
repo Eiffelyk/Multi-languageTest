@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Multi-languageTest</string>
+    <string name="action_settings">Settings</string>
+    <string name="this_language">内地==只是一个提示语</string>
+</resources>
